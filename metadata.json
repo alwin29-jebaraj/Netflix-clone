@@ -1,0 +1,5 @@
+{
+  "name": "Netflix Clone Login",
+  "description": "A full-stack Netflix-inspired login page with mock authentication and form validation.",
+  "requestFramePermissions": []
+}
